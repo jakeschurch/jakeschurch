@@ -7,11 +7,9 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 
 
-[![Jakes's GitHub stats (Public)](https://github-readme-stats.vercel.app/api?username=jakeschurch&show_icons=true&theme=dark&rank_icon=github&card_width=500&custom_title=Jake%27s%20GitHub%20Stats%20%28Public%29
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Jakes's GitHub stats (Public)](https://github-readme-stats.vercel.app/api?username=jakeschurch&show_icons=true&theme=dark&rank_icon=github&card_width=500&custom_title=Jake%27s%20GitHub%20Stats%20%28Public%29)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs (Public)](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeschurch&hide=c&theme=dark&card_width=500&langs_count=7&custom_title=Top%20Langs%20%28Public%29
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs (Public)](https://github-readme-stats.vercel.app/api/top-langs/username=jakeschurch&hide=c&theme=dark&card_width=500&langs_count=7&custom_title=Top%20Langs%20%28Public%29)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jakeschurch/jakeschurch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
